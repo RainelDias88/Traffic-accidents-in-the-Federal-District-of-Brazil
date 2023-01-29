@@ -68,7 +68,7 @@ The initial motivation was the fact that I frequently use the federal highways t
 
 - 3 .csv files containing data on traffic accidents recorded by the Federal Highway Police from 2019 to 2020.
 - 11 exploratory notebook in the search for data. In him there are Markdown cells to assist in walking through the thought process for individual steps.
-- 1 .py files. It is necessary to obtain the final model used to predict the day that there will be more serious accidents.
+- 1 .py file. It is necessary to obtain the final model used to predict the day that there will be more serious accidents.
 
 
 ## Results

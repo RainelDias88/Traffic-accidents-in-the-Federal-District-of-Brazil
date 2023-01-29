@@ -47,7 +47,13 @@ Several quick start options are available:
 
 ## Status
 
-(https://img.shields.io/github/languages/count/RainelDias88/Traffic-accidents-in-the-Federal-District-of-Brazil) (https://img.shields.io/github/languages/top/RainelDias88/Traffic-accidents-in-the-Federal-District-of-Brazil) (https://img.shields.io/github/repo-size/Raineldias88/Traffic-accidents-in-the-Federal-District-of-Brazil)
+![Languages](https://img.shields.io/github/languages/count/RainelDias88/Traffic-accidents-in-the-Federal-District-of-Brazil)
+
+![Top Language](https://img.shields.io/github/languages/top/RainelDias88/Traffic-accidents-in-the-Federal-District-of-Brazil)
+
+![Repo Size](https://img.shields.io/github/repo-size/Raineldias88/Traffic-accidents-in-the-Federal-District-of-Brazil)
+
+
 
 
 ## Motivation

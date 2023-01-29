@@ -47,13 +47,7 @@ Several quick start options are available:
 
 ## Status
 
-[![Languages](https://img.shields.io/github/languages/count/RainelDias88/Traffic-accidents-in-the-Federal-District-of-Brazil)]
-
-[![Top Language](https://img.shields.io/github/languages/top/RainelDias88/Traffic-accidents-in-the-Federal-District-of-Brazil)]
-
-[![Repo Size](https://img.shields.io/github/repo-size/Raineldias88/Traffic-accidents-in-the-Federal-District-of-Brazil)]
-
-[![Build Status](https://img.shields.io/github/actions/workflow/status/twbs/bootstrap/js.yml?branch=main&label=JS%20Tests&logo=github)](https://github.com/twbs/bootstrap/actions?query=workflow%3AJS+Tests+branch%3Amain)
+(https://img.shields.io/github/languages/count/RainelDias88/Traffic-accidents-in-the-Federal-District-of-Brazil) (https://img.shields.io/github/languages/top/RainelDias88/Traffic-accidents-in-the-Federal-District-of-Brazil) (https://img.shields.io/github/repo-size/Raineldias88/Traffic-accidents-in-the-Federal-District-of-Brazil)
 
 
 ## Motivation
@@ -99,4 +93,4 @@ The main findings of the code can be found at the post available [`here`](https:
 </a>
 
 
-Thanks to [br](https://www.gov.br/pt-br) for providing us with the actual data used in this project!
+Thanks to [GovBr](https://www.gov.br/pt-br) for providing us with the actual data used in this project!
